@@ -1,0 +1,6 @@
+1.ga-api-old.zip有老的授权方式，可以通过用户名密码登录；
+2.google-api-python-client.zip为auth2.0授权方式；
+
+解压old包后，需在cmd 命令下，转跳到你解压目录， 运行 setup.py install 命令，安装api包；
+
+安装成功后，《解压目录》\samples\analytics里有几个demo程序，其中data_feed_demo.py基本上就可以实现我们需要的功能了···手动改程序。
